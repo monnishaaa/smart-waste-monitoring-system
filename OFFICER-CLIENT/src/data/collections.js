@@ -1,0 +1,58 @@
+const collections = [
+  {
+    id: 1,
+    householdId: "HH0001",
+    date: "28-07-2026",
+    day: "Tuesday",
+    status: "Properly Segregated",
+    remarks: "Good segregation",
+    officer: "Officer Kumar",
+  },
+  {
+    id: 2,
+    householdId: "HH0001",
+    date: "24-07-2026",
+    day: "Friday",
+    status: "Mixed Waste",
+    remarks: "Plastic mixed with wet waste",
+    officer: "Officer Kumar",
+  },
+  {
+    id: 3,
+    householdId: "HH0001",
+    date: "21-07-2026",
+    day: "Tuesday",
+    status: "House Locked",
+    remarks: "Nobody at home",
+    officer: "Officer Ravi",
+  },
+  {
+    id: 4,
+    householdId: "HH0002",
+    date: "28-07-2026",
+    day: "Tuesday",
+    status: "Properly Segregated",
+    remarks: "Excellent",
+    officer: "Officer Kumar",
+  },
+  {
+    id: 5,
+    householdId: "HH0002",
+    date: "24-07-2026",
+    day: "Friday",
+    status: "No Waste Given",
+    remarks: "Household did not hand over waste",
+    officer: "Officer Ravi",
+  },
+  {
+    id: 6,
+    householdId: "HH0003",
+    date: "28-07-2026",
+    day: "Tuesday",
+    status: "Mixed Waste",
+    remarks: "Dry and wet waste mixed",
+    officer: "Officer Kumar",
+  },
+];
+
+export default collections;
