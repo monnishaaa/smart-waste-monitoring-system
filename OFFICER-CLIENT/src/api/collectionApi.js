@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:5000/api/collections";
+const API = "https://smart-waste-monitoring-system.onrender.com/api/collections";
 
 // Save Collection
 export const addCollection = (data) => {

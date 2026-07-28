@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:5000/api/households";
+const API = "https://smart-waste-monitoring-system.onrender.com/api/households";
 
 // Get all households
 export const getHouseholds = () => {
