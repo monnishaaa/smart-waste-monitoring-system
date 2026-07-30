@@ -205,7 +205,8 @@ npm run dev
 
 ## Admin Dashboard
 
-> Add screenshot here
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/5d23fec5-14e0-4da3-8ebf-ba31ef96b1f3" />
+
 
 ```
 README_IMAGES/admin-dashboard.png
@@ -215,7 +216,8 @@ README_IMAGES/admin-dashboard.png
 
 ## Household Management
 
-> Add screenshot here
+<img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/7cdb8336-aaeb-4ca0-9cf9-642da74673bb" />
+
 
 ```
 README_IMAGES/households.png
@@ -225,7 +227,8 @@ README_IMAGES/households.png
 
 ## Officer Dashboard
 
-> Add screenshot here
+<img width="1364" height="677" alt="image" src="https://github.com/user-attachments/assets/316f382f-f820-4da9-a319-07b5ee84a34a" />
+
 
 ```
 README_IMAGES/officer-dashboard.png
@@ -235,7 +238,8 @@ README_IMAGES/officer-dashboard.png
 
 ## QR Scanner
 
-> Add screenshot here
+<img width="1363" height="683" alt="image" src="https://github.com/user-attachments/assets/20bfd36b-8d4d-495c-a123-f449c161b1d7" />
+
 
 ```
 README_IMAGES/qr-scanner.png
@@ -245,7 +249,8 @@ README_IMAGES/qr-scanner.png
 
 ## Waste Collection
 
-> Add screenshot here
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/88070242-116e-4e3e-afef-0c6e39a2f724" />
+
 
 ```
 README_IMAGES/collection.png
@@ -255,7 +260,8 @@ README_IMAGES/collection.png
 
 ## MongoDB Database
 
-> Add screenshot here
+<img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/609bb776-2268-428e-a69c-d90f2fac4ba0" />
+
 
 ```
 README_IMAGES/mongodb.png
